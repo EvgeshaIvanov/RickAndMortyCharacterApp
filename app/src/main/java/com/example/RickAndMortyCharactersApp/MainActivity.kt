@@ -10,7 +10,7 @@ import androidx.lifecycle.ViewModelProvider
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 import com.example.RickAndMortyCharactersApp.adapter.CharacterAdapter
-import com.example.retrofittestingappgetrequest.databinding.ActivityMainBinding
+import com.example.RickAndMortyCharactersApp.databinding.ActivityMainBinding
 import com.example.RickAndMortyCharactersApp.model.Character
 import com.example.RickAndMortyCharactersApp.repository.Repository
 
